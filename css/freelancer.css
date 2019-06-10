@@ -10756,11 +10756,11 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
-.portfolio {
+.reason {
   margin-bottom: -30px;
 }
 
-.portfolio .portfolio-item {
+.reason .reason-item {
   cursor: pointer;
   position: relative;
   display: block;
@@ -10770,7 +10770,7 @@ a.text-dark:hover, a.text-dark:focus {
   overflow: hidden;
 }
 
-.portfolio .portfolio-item .portfolio-item-caption {
+.reason .reason-item .reason-item-caption {
   position: absolute;
   top: 0;
   left: 0;
@@ -10780,34 +10780,34 @@ a.text-dark:hover, a.text-dark:focus {
   background-color: #FF7E6B;
 }
 
-.portfolio .portfolio-item .portfolio-item-caption:hover {
+.reason .reason-item .reason-item-caption:hover {
   opacity: 1;
 }
 
-.portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
+.reason .reason-item .reason-item-caption .reason-item-caption-content {
   font-size: 1.5rem;
 }
 
-.portfolio-modal .portfolio-modal-title {
+.reason-modal .reason-modal-title {
   font-size: 2.25rem;
   line-height: 2rem;
 }
 
 @media (min-width: 992px) {
-  .portfolio-modal .portfolio-modal-title {
+  .reason-modal .reason-modal-title {
     font-size: 3rem;
     line-height: 2.5rem;
   }
 }
 
-.portfolio-modal .close {
+.reason-modal .close {
   position: absolute;
   z-index: 1;
   right: 1.5rem;
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #1abc9c;
+  color: #2c3e50;
   opacity: 1;
 }
 
